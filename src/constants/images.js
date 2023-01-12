@@ -36,6 +36,7 @@ import skype from '../assets/skype.png';
 import spotify from '../assets/spotify.png';
 import portfolioLogo from '../assets/portfolioLogo.png';
 import angular from '../assets/angular.png';
+import profileImage from '../assets/profileImage.png';
 
 export default {
   email,
@@ -72,5 +73,6 @@ export default {
   skype,
   spotify,
   portfolioLogo,
-  angular
+  angular,
+  profileImage
 };
